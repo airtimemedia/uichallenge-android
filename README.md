@@ -15,7 +15,7 @@ In addition, the interview should get a [copy of the boilerplate code of the pro
 ![Architecture](assets/Architecture.png)
 
 ## Things to cover
-* Implementation of RecyclerView and RecyclerView.Adapter.
+* Implementation of RecyclerView and RecyclerView.Adapter with nested RecyclerViews.
 * Creating responsive layouts and use of modern ViewGroups such as ConstraintLayout.
 * Communication between Fragment and parent Activity.
 * Resourcefulness if given a challenge something they have not done before.
