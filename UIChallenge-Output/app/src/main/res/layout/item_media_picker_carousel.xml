@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/videosRecyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipToPadding="false"
+    android:paddingStart="@dimen/padding_double"
+    android:paddingTop="@dimen/padding_double"
+    android:paddingBottom="@dimen/padding_double">
+
+</androidx.recyclerview.widget.RecyclerView>
